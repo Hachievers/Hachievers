@@ -13,11 +13,17 @@ I'm passionate about working around data and statistical models for data-driven 
 Here's a quick summary about me:
 
 😊 Pronouns: He/him
+
 💡 Fun fact: I'm currently studying at Worldquant University at the Applied Data Science Lab.
+
 🌱 I’m currently learning more about SQL, Python, PowerBI, and Machine Learning model and deployment.
+
 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+
 💼 Job interests: Data Analysis or Data Scientist (Intern or Junior level opportunities).
+
 📫 You can view my resume and contact me by emailing adeoyeadekunle608@gmail.com.
+
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=Hachievers&&show-icons=true&tittle_color=#000000&icon_color=bb2acf&text_color=daf7dc&bg_cplor=151515)
 
