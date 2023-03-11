@@ -7,7 +7,7 @@
 
 
  
-I'm a first class mathematics graduate, a Data Analysyt and Scientist as well as a Content Creator who is currently looking for work/internship. 
+I am a first class mathematics graduate, a Data Analyst and Scientist who is currently looking for work/internship. 
 I'm passionate about working around data and statistical models for data-driven decision making.
 
 Here's a quick summary about me:
