@@ -25,11 +25,11 @@ Here's a quick summary about me:
 ![Logo](https://github-readme-stats.vercel.app/api?username=Hachievers&&show-icons=true&tittle_color=#000000&icon_color=bb2acf&text_color=daf7dc&bg_cplor=151515)
 
 ## 🛠 Skills
-**Cloud & DevOps:**
+ # **Cloud & DevOps:**
 - **AWS Services:** Lambda, S3, EC2, RDS, DynamoDB, VPC, IAM, CloudFormation, API Gateway, CloudWatch, Elastic Beanstalk, Kinesis, QuickSight, SNS, SQS, Step Functions, Athena, Glue, Redshift, SageMaker
 - **DevOps & Automation:** CI/CD pipelines, Docker, Kubernetes, Terraform, Serverless Architecture, Infrastructure as Code (IaC), Automated Deployment, Monitoring & Logging, Cloud Security Best Practices, Version Control (Git)
-**Data & Analytics:** Python, SQL, Excel, PowerBI, Tableau, Statistical Modeling, Machine Learning  
-**Programming & Tools:** Java, Git, Docker, Linux  
+- **Data & Analytics:** Python, SQL, Excel, PowerBI, Tableau, Statistical Modeling, Machine Learning  
+- **Programming & Tools:** Java, Git, Docker, Linux  
 
 
 
