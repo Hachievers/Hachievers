@@ -19,7 +19,6 @@ Here's a quick summary about me:
 💼 **Job interests:** Cloud Engineer, AWS Solutions Architect, DevOps, Data Analyst.
 - 📫 **Contact Me:** [adeoyeadekunle608@gmail.com](mailto:adeoyeadekunle608@gmail.com)
 
-📫 You can view my resume here in the link below.
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=Hachievers&&show-icons=true&tittle_color=#000000&icon_color=bb2acf&text_color=daf7dc&bg_cplor=151515)
