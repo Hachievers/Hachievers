@@ -7,7 +7,7 @@
 
 
  
-**I am a **first-class Mathematics graduate** and a **Data Analyst & Cloud Enthusiast** passionate about building **scalable, cloud-native, and data-driven solutions**. I leverage **AWS, DevOps, and data analytics** to solve real-world problems.**
+**I am a **first-class Mathematics graduate**, **Data Analyst, and Cloud Enthusiast** passionate about building **scalable, cloud-native, and data-driven solutions**. I leverage **AWS, DevOps, and data analytics** to solve real-world problems.**
 
 **Here's a quick summary about me:**
 
@@ -16,7 +16,7 @@
 💡 **Fun fact: I hold a Master’s degree in Mathematics and Statistics from Georgia State University, Atlanta, GA, USA.**
 
 🌱 **I’m currently learning more about Advanced **AWS services**, **Cloud Engineering**, **DevOps automation** **GenAI**, **Python**, **SQL**, **PowerBI**, and **Machine Learning.****
-💼 **Job interests:** **Cloud Engineer, AWS Solutions Architect, DevOps, Data Analyst.**
+💼 **Job interests:** **AWS Solutions Architect,Cloud Engineer, DevOps, Data Analyst.**
 - 📫 **Contact Me:** [adeoyeadekunle608@gmail.com](mailto:adeoyeadekunle608@gmail.com)
 
 
