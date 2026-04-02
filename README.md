@@ -11,13 +11,13 @@
 
 **Here's a quick summary about me:**
 
-😊 **Pronouns:** **He/him**
+- 😊 **Pronouns:** **He/him**
 
-💡 **Fun fact: I hold a Master’s degree in Mathematics and Statistics from Georgia State University, Atlanta, GA, USA.**
+- 💡 **Fun fact: I hold a Master’s degree in Mathematics and Statistics from Georgia State University, Atlanta, GA, USA.**
 
-🌱 **I’m currently learning more about Advanced **AWS services**, **Cloud Engineering**, **DevOps automation** **GenAI**, **Python**, **SQL**, **PowerBI**, and **Machine Learning.****
+- 🌱 **I’m currently learning more about Advanced **AWS services**, **Cloud Engineering**, **DevOps automation** **GenAI**, **Python**, **SQL**, **PowerBI**, and **Machine Learning.****
 
-💼 **Job interests:** **AWS Solutions Architect,Cloud Engineer, DevOps, Data Analyst.**
+- 💼 **Job interests:** **AWS Solutions Architect,Cloud Engineer, DevOps, Data Analyst.**
 - 📫 **Contact Me:** [adeoyeadekunle608@gmail.com](mailto:adeoyeadekunle608@gmail.com)
 
 
